@@ -1,5 +1,5 @@
 # TMXReader 
-==========
+
 A golang package for reading Tiled TMX tile maps
 
 [![GitHub tag][GitHubTagImage]][GitHubTagUrl]

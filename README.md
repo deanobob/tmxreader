@@ -1,4 +1,7 @@
-# TMXReader
+# TMXReader 
+==========
+A golang package for reading Tiled TMX tile maps
+
 [![GitHub tag][GitHubTagImage]][GitHubTagUrl]
 [![Build Status][TravisCiImage]][TravisCiUrl]
 [![license][LicenceImage]][LicenceUrl]
